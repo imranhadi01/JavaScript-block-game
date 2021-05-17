@@ -1,1 +1,1 @@
-# JavaScript-block-game
+# JavaScript block game
